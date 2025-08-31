@@ -359,3 +359,11 @@ input[type="submit"] {
   		display: block;
   		height: 80%;
 }
+	.tags-bar {
+		cursor: pointer;
+}
+	.tags-bar .nav-link.active-tag {
+  		background-color: #BEB45A;
+  		color: #fff;
+  		border-radius: 0;
+}
