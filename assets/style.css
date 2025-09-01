@@ -357,7 +357,7 @@ input[type="submit"] {
 	.slider-img {
   		object-fit: cover;
   		display: block;
-  		height: 80%;
+  		max-height: 880px;
 }
 	.tags-bar {
 		cursor: pointer;
@@ -365,5 +365,4 @@ input[type="submit"] {
 	.tags-bar .nav-link.active-tag {
   		background-color: #BEB45A;
   		color: #fff;
-  		border-radius: 0;
 }
