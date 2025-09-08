@@ -364,15 +364,4 @@ input[type="submit"] {
 	}
 }
 
-	.slider-img {
-  		object-fit: cover;
-  		display: block;
-  		max-height: 880px;
-}
-	.tags-bar {
-		cursor: pointer;
-}
-	.tags-bar .nav-link.active-tag {
-  		background-color: #c4b636;
-  		color: #000000;
-}
+
